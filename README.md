@@ -1,0 +1,2 @@
+# bitcoin3_macosx_wallet
+bitcoin3_macosx_wallet
